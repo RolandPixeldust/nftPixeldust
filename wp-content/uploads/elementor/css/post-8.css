@@ -1,0 +1,22 @@
+.elementor-8 .elementor-element.elementor-element-92f471c{text-align:left;}.elementor-8 .elementor-element.elementor-element-92f471c img{width:48%;box-shadow:0px 0px 0px 0px rgba(0,0,0,0.5);}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-menu-toggle{margin:0 auto;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--main .elementor-item:focus{color:#E6E6E6;fill:#E6E6E6;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown a, .elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-menu-toggle{color:#FFFFFF;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown{background-color:#000000;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown a:hover,
+					.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown a.highlighted{background-color:#BDF62B;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown a.elementor-item-active{color:#CEFF26;}.elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown .elementor-item, .elementor-8 .elementor-element.elementor-element-b00cbe0 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Montserrat", Sans-serif;font-weight:500;}.elementor-8 .elementor-element.elementor-element-dbd5dde .elementor-spacer-inner{height:50px;}.elementor-8 .elementor-element.elementor-element-673a45b img{width:74%;opacity:1;}.elementor-8 .elementor-element.elementor-element-673a45b > .elementor-widget-container{margin:80% 0% 0% 30%;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-repeater-item-977d1f6.elementor-social-icon{background-color:#06060600;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-repeater-item-977d1f6.elementor-social-icon i{color:#FFFFFF;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-repeater-item-977d1f6.elementor-social-icon svg{fill:#FFFFFF;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-repeater-item-5890608.elementor-social-icon{background-color:#02010100;}.elementor-8 .elementor-element.elementor-element-b57081d{--grid-template-columns:repeat(0, auto);--icon-size:53px;--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-widget-container{text-align:center;}.elementor-8 .elementor-element.elementor-element-b57081d .elementor-social-icon{background-color:#FFFFFF;}.elementor-8 .elementor-element.elementor-element-b57081d > .elementor-widget-container{background-color:#02010100;}body.elementor-page-8:not(.elementor-motion-effects-element-type-background), body.elementor-page-8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(160deg, #000000 5%, #EFF229 100%);}/* Start custom CSS for image, class: .elementor-element-92f471c */.elementor-8 .elementor-element.elementor-element-92f471c{
+filter: drop-shadow(5px 5px 2px rgba(0, 0, 0, 0.15));
+}/* End custom CSS */
+/* Start custom CSS for nav-menu, class: .elementor-element-b00cbe0 */.elementor-8 .elementor-element.elementor-element-b00cbe0{
+filter: drop-shadow(5px 5px 2px rgba(0, 0, 0, 0.15));
+}/* End custom CSS */
+/* Start custom CSS for social-icons, class: .elementor-element-b57081d */.elementor-8 .elementor-element.elementor-element-b57081d{
+filter: drop-shadow(5px 5px 2px rgba(0, 0, 0, 0.15));
+}/* End custom CSS */
+/* Start custom CSS */body{
+background-image: linear-gradient(to bottom right, Black, #d0e23f);
+   background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	height: 100%;
+    margin: 0;
+}/* End custom CSS */
