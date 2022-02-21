@@ -49,13 +49,13 @@
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-pagination.swiper-pagination-progressbar {background-color: #d3e43c;}
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-button-prev {color: #d3e43c;}
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-button-next {color: #d3e43c;}
-.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-icon {background-color: #d3e43c;color: #d3e43c;}
-.elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info {border-color: #d3e43c;background-color: #d3e43c;}
-.elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info:before {border-bottom-color: #d3e43c;}
-.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-data-container:after {border-right-color: #d3e43c;}
-.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-right-aligned .twae-data-container {border-left-color: #d3e43c;}
-body[data-elementor-device-mode=desktop] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container, body[data-elementor-device-mode=tablet] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container {border-right-color: #d3e43c;}
-body[data-elementor-device-mode=mobile] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container {border-left-color: #d3e43c;}
+.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-icon {background-color: #f8a418;color: #d3e43c;}
+.elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info {border-color: #f8a418;background-color: #d3e43c;}
+.elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info:before {border-bottom-color: #f8a418;}
+.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-data-container:after {border-right-color: #f8a418;}
+.elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-right-aligned .twae-data-container {border-left-color: #f8a418;}
+body[data-elementor-device-mode=desktop] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container, body[data-elementor-device-mode=tablet] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container {border-right-color: #f8a418;}
+body[data-elementor-device-mode=mobile] .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-left-aligned .twae-data-container {border-left-color: #f8a418;}
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-wrapper .twae-data-container {background-color: #d3e43c;}
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info.twae-no-border {border-color: #d3e43c;}
 .elementor-143 .elementor-element.elementor-element-8316d76 .twae-horizontal .twae-story-info.twae-no-border:before {border-bottom-color: #d3e43c;}
@@ -74,6 +74,10 @@ body.elementor-page-143:not(.elementor-motion-effects-element-type-background), 
 .elementor-143 .elementor-element.elementor-element-11821488 {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
 .elementor-143 .elementor-element.elementor-element-261797b {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
 .elementor-143 .elementor-element.elementor-element-0321e0b {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
+.elementor-143 .elementor-element.elementor-element-0321e0b {animation: bounce2 2s ease infinite;}
+@keyframes bounce2 {0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-30px);}
+	60% {transform: translateY(-15px);}}
 .elementor-143 .elementor-element.elementor-element-8316d76 {filter: drop-shadow(8px 5px 2px rgba(0,0,0,.25));}
 .elementor-143 .elementor-element.elementor-element-b2ec7c3 {}
 body {background-image: linear-gradient(to bottom right,Black,#d0e23f);background-size: cover;background-repeat: no-repeat;background-attachment: fixed;height: 100%;margin: 0;}
