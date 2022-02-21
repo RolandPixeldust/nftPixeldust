@@ -36,5 +36,9 @@ body.elementor-page-266:not(.elementor-motion-effects-element-type-background), 
 .elementor-266 .elementor-element.elementor-element-147afd25 {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
 .elementor-266 .elementor-element.elementor-element-4ebfbb4b {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
 .elementor-266 .elementor-element.elementor-element-0321e0b {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
+.elementor-266 .elementor-element.elementor-element-0321e0b {animation: bounce2 2s ease infinite;}
+@keyframes bounce2 {0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-30px);}
+	60% {transform: translateY(-15px);}}
 .elementor-266 .elementor-element.elementor-element-7f12f74 {filter: drop-shadow(5px 5px 2px rgba(0,0,0,.15));}
 body {background-image: linear-gradient(to bottom right,Black,#d0e23f);background-size: cover;background-repeat: no-repeat;background-attachment: fixed;height: 100%;margin: 0;}
